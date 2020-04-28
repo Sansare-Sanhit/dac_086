@@ -1,0 +1,8 @@
+Q- what is cloud
+Ans- cloud computing is a service where in we can rent out computing resources such as processing power ,storage etc not in the physical form but virtually. from the service providers who have datacenters build across the world over the internet.
+
+Q- Advantages of cloud computing.
+Ans-    1-Resource sharing.
+	2- as per the requirements we can increment or decrement our computing resources with ease.
+	3- we pay only for what we use 
+	4- can access our resources/machine anywhere anytime over the internet. 
