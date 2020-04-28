@@ -3,6 +3,12 @@ Ans- cloud computing is a service where in we can rent out computing resources s
 
 Q- Advantages of cloud computing.
 Ans-    1-Resource sharing.
-	2- as per the requirements we can increment or decrement our computing resources with ease.
-	3- we pay only for what we use 
+	2- as per the requirements we can scaleup or scaledown our computing resources with ease.
+	3- we pay only for what we use (pay as you go model) 
 	4- can access our resources/machine anywhere anytime over the internet. 
+	5- fast development/deployment
+	6- outsourced management.
+		a- Providers handles administration.
+		b- reliability (99.99%)
+		c- security 
+	7- no infrastructure required
